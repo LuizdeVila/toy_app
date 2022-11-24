@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Acesse a aplicação através do link:
+
+```
+https://desolate-taiga-15006.herokuapp.com
+```
